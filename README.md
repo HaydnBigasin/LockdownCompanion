@@ -1,1 +1,1 @@
-Lockdown Companion!
+The Lockdown Companion app is designed and dedicated to people who require some sort of companion during the pandemic or when quarantined. It is a journal app that keeps track of your mood/emotions each day. After journaling, the app will suggest some activities you can do to help boost your mood and/or to increase productivity—the suggestions are to be based on the users’ mood rating.
